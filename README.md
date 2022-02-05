@@ -2,6 +2,8 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/39fec671023cc630457a/maintainability)](https://codeclimate.com/github/PotatoParser/birdmap/maintainability)
 
+[![Bluejay Dashboard](https://img.shields.io/badge/Bluejay-Dashboard_birdmap-blue.svg)](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-CS169L-22-GH-PotatoParser_birdmap/main)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
