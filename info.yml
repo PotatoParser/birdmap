@@ -1,0 +1,27 @@
+project:
+  name: q2q
+  owner: CS169L-22
+  teamId: birdmap
+  identities:
+    pivotal: 'https://www.pivotaltracker.com/projects/2553035'
+    heroku: 'https://birdmap-sp22.herokuapp.com/'
+  notifications: {}
+  members:
+    member1:
+      name: Wilson
+      surname: Nguyen
+    member2:
+      name: Debbie
+      surname: Yuen
+    member3:
+      name: Ethan
+      surname: Bradley
+    member4:
+      name: Julian
+      surname: Bellavita
+    member5:
+      name: Kersten
+      surname: Naab
+    member6:
+      name: Justin
+      surname: Cheng
