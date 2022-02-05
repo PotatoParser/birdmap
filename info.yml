@@ -10,18 +10,24 @@ project:
     member1:
       name: Wilson
       surname: Nguyen
+      githubUsername: PotatoParser
     member2:
       name: Debbie
       surname: Yuen
+      githubUsername: debbieyuen
     member3:
       name: Ethan
       surname: Bradley
+      githubUsername: ethan-bradley
     member4:
       name: Julian
       surname: Bellavita
+      githubUsername: Hooninator
     member5:
       name: Kersten
       surname: Naab
+      githubUsername: kkerstenn
     member6:
       name: Justin
       surname: Cheng
+      githubUsername: justincheng101
