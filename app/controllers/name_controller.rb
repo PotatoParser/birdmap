@@ -1,12 +1,12 @@
 class NameController < ApplicationController
   def show
     names = [
-			"Debbie Yuen",
 			"Ethan Bradley",
 			"Julian Bellavita",
 			"Justin Cheng",
 			"Wilson Nguyen",
-			"Kersten Naab"
+			"Kersten Naab",
+			"Deborah Yuen"
 		]
     @name = names.sample(1)[0]
   end
